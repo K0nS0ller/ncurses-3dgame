@@ -4,8 +4,8 @@
 #include <stdbool.h>
 #include <math.h>
 
-#define MAP_WIDTH = 45;
-#define MAP_HEIGHT = 45;
+#define MAP_WIDTH 45;
+#define MAP_HEIGHT 45;
 
 char gradient[9] = "$@0/(),.";
 
